@@ -7,6 +7,6 @@
 
 I have decided to create my portfolio with this new framework called Astro.build along with Tailwind CSS and Shadcn as UI. We'll see what turns out. It's time :alarm_clock: to have fun :beers:
 
-## 👀 be attentive :arrow_backward:
+## 👀 Be attentive ❗
 
-Powered by [Astro.build](https://astro.build) & [Shadcn.UI](https://ui.shadcn.com/).
+Powered by [Astro.build](https://astro.build), [Tailwind CSS](https://tailwindcss.com/) & [Shadcn.UI](https://ui.shadcn.com/).
